@@ -4,7 +4,8 @@ A simple, responsive, and beautifully styled Notes Application built with React.
 
 ## 🖼️ App Preview
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Notes App Screenshot" width="800"/>
+  <img src="./assets/app-preview.png" alt="Notes App Screenshot" width="800"/>
+    <img src="./assets/app-previeww.png" alt="Notes App Screenshot" width="800"/>
 </p>
 
 ## ✨ Features
